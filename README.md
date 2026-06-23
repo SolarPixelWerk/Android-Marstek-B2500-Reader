@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/screenshot-tablet.jpg" alt="Marstek B2500 Reader Screenshot" width="420">
+</p>
+
+# Marstek B2500 Reader
+
+
+
 # Marstek B2500 Reader
 
 Native Android-Testapp fuer den Marstek B2500 Akku per Bluetooth Low Energy.
